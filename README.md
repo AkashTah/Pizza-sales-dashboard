@@ -3,6 +3,8 @@
 ## **Project Overview**
 This project focuses on analyzing key performance indicators (KPIs) and visualizing pizza sales data to understand business performance. The project includes both the calculation of important metrics and the creation of various charts to gain insights into the trends, popular products, and customer preferences.
 
+#View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
+   https://public.tableau.com/app/profile/akash.tah/vizzes
 ---
 
 ## **KPI Requirements**
