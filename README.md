@@ -1,5 +1,9 @@
 # Pizza Sales Data Analysis Dashboard
 
+![image](https://github.com/user-attachments/assets/a9516a81-45f0-4c50-bd2f-6ca0706d4bc0)
+![image](https://github.com/user-attachments/assets/353cb997-2a15-44ec-812e-44e7826fdbd4)
+
+
 ## **Project Overview**
 This project focuses on analyzing key performance indicators (KPIs) and visualizing pizza sales data to understand business performance. The project includes both the calculation of important metrics and the creation of various charts to gain insights into the trends, popular products, and customer preferences.
 
